@@ -4,7 +4,7 @@
 ### API testing steps :
 1. First open the [documentation](https://docs.google.com/document/d/1YyzPMbEu6eEMFrvp-WHiJW-SvDTJvikqx1QGyyFgRXw/edit)
 
-2. Then launch the Postman software.
+2. Then launch the [Postman software](https://www.postman.com).
 
 3. After that, create a new collection. If you want you can rename it.
 
