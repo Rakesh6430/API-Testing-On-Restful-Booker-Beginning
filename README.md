@@ -35,6 +35,7 @@
 
 14. After that, you will receive some data in the JSON Response body. This is how we ensure that, the information we want to add, 
     has been added with a new booking id.
+    
     <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/SS2.jpg" height = "300" width="650" >
     
 15. To fetch the data from the database of that server, we have to use GET method. For that, we have to create a new add request and 
@@ -44,7 +45,8 @@
 
 17. Then click on the send button. In the JSON response body , you will see the data which was added has been fetched from the server.
     Now we are ensured that, the data has been added successfully.
-    <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/GET.jpg" height = "300" width="650" >
+    
+    <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/GET .jpg" height = "300" width="650" >
 
 18. Now we can update some fields of that data also. To do that, we have to create Token to get permission from the API.
 
