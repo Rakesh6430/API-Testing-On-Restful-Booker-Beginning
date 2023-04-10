@@ -43,7 +43,7 @@
 
 19. First we need to create a new request and set it to POST method.
 
-20 From the documentation, we have to copy "Base_Url/auth"
+20. From the documentation, we have to copy "Base_Url/auth"
 
 21. Copy the data which is under the Example field and paste it on the JSON response body.
 
