@@ -24,11 +24,12 @@
 9. From the documentation, we have to copy the "Base_Url/booking/" from the documentation.
 
 10. Then we have to paste it on the "Enter url or paste text" field.
-       <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/Paste%20it%20on%20URL.jpg" height = "300" width="650" >
+    <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/Paste%20it%20on%20URL.jpg" height = "300" width="650" >
        
 11. After that, we have to click on body. Then set the text in raw and text format to JSON
 
 12. Then we have to copy the data paste it on the JSON Request body. You will see the demonstration in the below image
+    <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/SS1.jpg" height = "300" width="650" >
 
 13. Then click on save and click on the send button.
 
