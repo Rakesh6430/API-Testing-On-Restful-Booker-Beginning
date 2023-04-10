@@ -54,8 +54,9 @@
 
 20. From the documentation, we have to copy "Base_Url/auth"
 
-21. Copy the data which is under the Example field and paste it on the JSON response body.
-
+21. Copy the data which is under the Example field from the documentation and paste it on the JSON response body.
+    <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/Token generation.jpg" height = "300" width="650" > 
+    
 22. Click on send button. You will get a new token in the JSON reponse body which was sent by the API.
 
 23. The create a new request and SET it to PUT method. Paste the "Base_Url/booking/id" on the field. 
