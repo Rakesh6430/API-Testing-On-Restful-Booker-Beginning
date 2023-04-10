@@ -62,10 +62,14 @@
 23. The create a new request and SET it to PUT method. Paste the "Base_Url/booking/id" on the field. 
 
 24. The go to Headers section. After that, set the key to Cookies and value to token = "generated value". According to the below image.
-
+    <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/Header_PUT.jpg" height = "300" width="650" >
+    
 25. Copy the data and paste it on the request body. Then, change the first name and last name according to the below image.
-
+    <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/Changing the field name_PUT.jpg" height = "300" width="650" >
+    
 26. To check the first name and last name of that has been updated or not in the database of that server. We can again use GET method 
     and request API to fetch the data to check. Now you can see the data hase been update in the database of that server in the below 
     image.
+    
+    <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/Check the data_changed or not_GET.jpg" height = "300" width="650" >
 
