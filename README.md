@@ -6,7 +6,8 @@
 
 2. Then launch the [Postman software](https://www.postman.com).
 
-3. After that, create a new collection. If you want you can rename it.
+3. After that, create a new collection. If you want you can rename it. You can see in the below image.
+<img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/Create%20new%20collection.jpg" height = "300" width="400" >
 
 4. Afterwards, if you hover the mouse on the newly created collection, you will see a three doted icon.
 
