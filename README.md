@@ -1,4 +1,4 @@
-# API Testing on Restful-Booker using Postman
+# API Testing On Restful-Booker Using Postman
 - Here is the Base_Url: [https://restful-booker.herokuapp.com](https://restful-booker.herokuapp.com)
 
 ### API testing steps :
