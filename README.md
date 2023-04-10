@@ -3,7 +3,7 @@
 - Used POST, GET, PUT methods
 
 ### API testing steps :
-1. First open the [documentation](https://docs.google.com/document/d/1YyzPMbEu6eEMFrvp-WHiJW-SvDTJvikqx1QGyyFgRXw/edit)
+1. First open the [documentation](https://docs.google.com/document/d/1YyzPMbEu6eEMFrvp-WHiJW-SvDTJvikqx1QGyyFgRXw/edit).
 
 2. Then launch the [Postman software](https://www.postman.com).
 
