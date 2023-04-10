@@ -12,9 +12,10 @@
 4. Afterwards, if you hover the mouse on the newly created collection, you will see a three dotted icon.
    <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/Three%20dotted%20icon.jpg" height = "300" width="650" >
    
-5. After clicking on the three dotted icon, you will see some options. 
-
+5. After clicking on the three dotted icon, you will see some options.
+   
 6. Among the options you will have click on the Add request option.
+   <img src= "https://github.com/Rakesh6430/API-Testing-On-Restful-Booker/blob/main/API%20SS/Selecting%20new%20request.jpg" height = "300" width="650" >
 
 7. After that, you will see a new request has been added. 
 
